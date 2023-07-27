@@ -1,5 +1,3 @@
-# youtube_clone
-
 # YouTube Clone Project
 
 ![YouTube Clone Project]
